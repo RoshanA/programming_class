@@ -1,0 +1,33 @@
+/*css*/
+
+/*Website: My Pgoramming Site v.1 Author: Roshan Abraham */
+;
+body {
+	background: rgba (241, 20, 255);
+	font-family:helvetica;
+}
+
+hr {border-color: #000000}
+
+h1 
+{color:#000000;}
+
+{font-family: "Helvetica";}
+
+
+h1:hover{color:magenta;}
+
+
+#content{width:400px;
+ border-width:2px;
+ border-color:#000;
+ border-style:solid;
+ background-color:rgba (31,31,31,.4);
+ margin:50px;
+
+
+
+
+
+
+
